@@ -29,6 +29,7 @@ export default function Footer() {
                 width={50}
                 height={50}
                 className="h-12 w-auto brightness-0 invert"
+                unoptimized
               />
               <div>
                 <h3 className="font-serif text-xl">LAËL VISION</h3>

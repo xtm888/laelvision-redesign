@@ -82,6 +82,8 @@ export default function Header() {
                 width={56}
                 height={56}
                 className="h-14 w-auto transition-transform duration-500 group-hover:scale-105"
+                unoptimized
+                priority
               />
             </div>
             <div className="hidden sm:block">
